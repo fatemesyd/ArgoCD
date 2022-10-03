@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://bitbucket.dotin.ir/scm/~f.sayyadi/argocd
+    repoURL: https://github.com/fatemesyd/ArgoCD.git
     targetRevision: HEAD
     path: dev
   destination: 
